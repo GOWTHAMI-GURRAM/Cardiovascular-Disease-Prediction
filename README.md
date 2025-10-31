@@ -11,12 +11,12 @@
 - Now it is your turn to do a analysis with the given dataset.
 
  
-Project Output Instructions :
-•	Perform data pre-processing operations.
-•	As a part of data analysis and visualizations draw all the possible plots to provide essential informations and to derive some meaningful insights.
-•	Showyour correlation matrix of features according to the datasets.
-•	Find out accuracy levels of various machine learning techniques such as Support Vector Machines (SVM), K-Nearest Neighbor (KNN), Decision Trees (DT) , Logistic Regression (LR) and Random Forest (RF).
-•	Buildyour Machine learning model for heart disease detection according to the result.
+# Project Output Instructions :
+- 	Perform data pre-processing operations.
+- 	As a part of data analysis and visualizations draw all the possible plots to provide essential informations and to derive some meaningful insights.
+- 	Showyour correlation matrix of features according to the datasets.
+- 	Find out accuracy levels of various machine learning techniques such as Support Vector Machines (SVM), K-Nearest Neighbor (KNN), Decision Trees (DT) , Logistic Regression (LR) and Random Forest (RF).
+-	Buildyour Machine learning model for heart disease detection according to the result.
 
 
 ## 🎯 Objectives
